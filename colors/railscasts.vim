@@ -26,9 +26,9 @@ let g:colors_name = "railscasts"
 " Light Green  #A5C261
 " Tan          #FFC66D
 
-hi Normal                    guifg=#E6E1DC guibg=#2B2B2B ctermfg=white ctermbg=237
+hi Normal                    guifg=#E6E1DC guibg=#2B2B2B ctermfg=white ctermbg=236
 hi Cursor                    guifg=#000000 guibg=#FFFFFF ctermfg=0 ctermbg=15
-hi CursorLine                guibg=#333435 ctermbg=238 cterm=NONE
+hi CursorLine                guibg=#333435 ctermbg=237 cterm=NONE
 hi Search                    guibg=#5A647E ctermfg=NONE ctermbg=239 cterm=underline
 hi Visual                    guibg=#5A647E ctermbg=60
 hi LineNr                    guifg=#888888 ctermfg=242
@@ -36,7 +36,7 @@ hi StatusLine                guibg=#414243 gui=NONE guifg=#E6E1DC
 hi StatusLineNC              guibg=#414243 gui=NONE
 hi VertSplit                 guibg=#414243 gui=NONE guifg=#414243
 hi CursorLineNr              guifg=#bbbbbb ctermfg=248
-hi ColorColumn               guibg=#333435 ctermbg=238
+hi ColorColumn               guibg=#333435 ctermbg=235
 
 " Folds
 " -----
